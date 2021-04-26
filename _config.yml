@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+title: 항상 Study가 필요한 개발자의 삶
+subtitle: ""
 email: jsh28001@gmail.com
 name: Suho Jang
 description: >
