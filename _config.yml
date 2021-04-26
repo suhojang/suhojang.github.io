@@ -12,7 +12,7 @@ exclude:
 title: Centrarium
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
 email: jsh28001@gmail.com
-name: Ben Centra
+name: Suho Jang
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -92,7 +92,7 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
+    username: suhojang
     url: https://github.com/suhojang
     desc: Fork me on GitHub
     share: true
