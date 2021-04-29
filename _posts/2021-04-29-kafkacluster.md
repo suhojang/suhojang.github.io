@@ -110,3 +110,6 @@ bdab2952acac        zookeeper:3.4.9                         "/docker-entrypoin..
 - file system permission denied
 - 해결방법
 > chcon -Rt svirt_sandbox_file_t [path]
+
+※ Cluster 구성을 위한 다른 방법
+- [https://team-platform.tistory.com/13?category=829378](https://team-platform.tistory.com/13?category=829378)
