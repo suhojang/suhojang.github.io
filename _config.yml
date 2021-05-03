@@ -1,9 +1,10 @@
 # External plugins
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
-plugins:
-  - jekyll-archives # Sorry, not GitHub pages friendly!
+---
+gems:
+  - jekyll-archives
   - jekyll-sitemap
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
 exclude:
   - "/vendor/"
@@ -16,10 +17,13 @@ name: Suho Jang
 description: 'The life of a developer who always needs to study'
 baseurl: ""
 url: "https://suhojang.github.io/"
+plugins_dir:
+  - jekyll-sitemap
 cover: "/assets/main_cover.jpg"
 logo: "/assets/logo.png"
 markdown: kramdown
 highlighter: rouge
+paginate: 5
 paginate_path: "/page:num/"
 inter_post_navigation: true
 highlightjs_theme: "monokai-sublime"
@@ -54,9 +58,7 @@ protocols:
     fb_image_width: 612
     fb_image_height: 605
     fb_image_type: "image/png"
-
     twitter_image: "/assets/logo.png"
-
     os_repo: "https://github.com/bencentra/centrarium.com"
     os_rcs_type: "git"
     os_src: "git@github.com:bencentra/centrarium.com.git"
