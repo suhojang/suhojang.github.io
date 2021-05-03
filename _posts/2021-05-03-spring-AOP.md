@@ -217,4 +217,4 @@ public class TestAopServiceImpl implements TestAopService {
 2021-04-12 12:38:17.990  INFO 24164 --- [nio-8080-exec-4] c.j.aop.service.impl.TestAopServiceImpl  : Hello, Spring Boot No AOP
 ```
 
-github : [https://github.com/suhojang/SpringSecurity](https://github.com/suhojang/SpringSecurity)
+github : [https://github.com/suhojang/SpringAOP](https://github.com/suhojang/SpringAOP)
