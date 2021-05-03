@@ -15,8 +15,8 @@ email: jsh28001@gmail.com
 name: Suho Jang
 description: 'The life of a developer who always needs to study'
 baseurl: ""
-url: "https://github.com/suhojang/suhojang.github.io/"
-cover: "/assets/header_image.jpg"
+url: "https://suhojang.github.io/"
+cover: "/assets/main_cover.jpg"
 logo: "/assets/logo.png"
 markdown: kramdown
 highlighter: rouge
