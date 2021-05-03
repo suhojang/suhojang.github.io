@@ -10,7 +10,7 @@ categories: docker
   + 여러 컨테이너를 클러스터로 만들어 관리
   + Docker를 사용한 orchestration infra를 구축할 때 가장 호환성이 좋음
 
-![Docker Swarm](https://github.com/suhojang/dockerswram/blob/master/docker-swram.png)
+![Docker Swarm](/assets/docker-swram.png)
 
 + Node
   + 클러스터에 속한 도커 서버 단위 입니다. 보통 한 서버에 하나의 도커 데몬을 실행하기 때문에 노드는 곧 서버라고 이해 할 수 있습니다.
