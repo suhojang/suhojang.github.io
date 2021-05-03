@@ -2,6 +2,8 @@
 title: "Spring Interceptor"
 layout: post
 author: jsh
+tags: Spring
+cover: "/assets/cover.jpg"
 categories: Spring
 ---
 

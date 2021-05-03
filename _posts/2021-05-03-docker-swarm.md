@@ -2,6 +2,8 @@
 title: "docker swarm"
 layout: post
 author: jsh
+tags: docker
+cover: "/assets/cover.jpg"
 categories: docker
 ---
 

@@ -2,6 +2,8 @@
 title: "Spring Security"
 layout: post
 author: jsh
+tags: Spring
+cover: "/assets/cover.jpg"
 categories: Spring
 ---
 
