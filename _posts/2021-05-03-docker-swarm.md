@@ -94,12 +94,12 @@ services:
         delay: 2s
         max_attempts: 3
 
-# services.web.deploy.replicas = 생성 할 container 개수 지정
-# services.web.deploy.resources.limits.cpus = container의 cpu 사용량 지정
-# services.web.deploy.resources.limits.memory = container의 memory 사용량 지정
-# services.web.deploy.restart_policy.condition = 종류[none(설정하지 않음), on-failure(실패 시), any(항상)기본값]
-# services.web.deploy.restart_policy.delay = 체크할 시간 지정
-# services.web.deploy.restart_policy.max_attempts = 시도 할 횟수
+- services.web.deploy.replicas = 생성 할 container 개수 지정
+- services.web.deploy.resources.limits.cpus = container의 cpu 사용량 지정
+- services.web.deploy.resources.limits.memory = container의 memory 사용량 지정
+- services.web.deploy.restart_policy.condition = 종류[none(설정하지 않음), on-failure(실패 시), any(항상)기본값]
+- services.web.deploy.restart_policy.delay = 체크할 시간 지정
+- services.web.deploy.restart_policy.max_attempts = 시도 할 횟수
 ```
 
 + docker-compose를 이용하여 service 및 node 생성
