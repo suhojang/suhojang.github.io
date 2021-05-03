@@ -20,7 +20,7 @@ url: "https://suhojang.github.io/"
 plugins_dir:
   - jekyll-sitemap
 cover: "/assets/main_cover.jpeg"
-logo: "/assets/logo.png"
+logo: "/assets/my_logo.png"
 markdown: kramdown
 highlighter: rouge
 paginate: 5
@@ -53,11 +53,11 @@ social:
     share: false
 
 protocols:
-    fb_image: "/assets/logo.png"
+    fb_image: "/assets/my_logo.png"
     fb_image_width: 612
     fb_image_height: 605
     fb_image_type: "image/png"
-    twitter_image: "/assets/logo.png"
+    twitter_image: "/assets/my_logo.png"
     os_repo: "https://github.com/bencentra/centrarium.com"
     os_rcs_type: "git"
     os_src: "git@github.com:bencentra/centrarium.com.git"
