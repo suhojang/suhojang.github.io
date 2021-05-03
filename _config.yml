@@ -10,7 +10,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: 항상 Study가 필요한 개발자의 삶
+title: Developer Life
 subtitle: ""
 email: jsh28001@gmail.com
 name: Suho Jang
@@ -44,7 +44,7 @@ ga_tracking_id: UA-83878761-1
 
 descriptions:
   - cat: jekyll
-    desc: "항상 Study가 필요한 개발자의 삶"
+    desc: "Developer Life"
 social:
   - name: GitHub
     icon: github
