@@ -40,7 +40,6 @@ jekyll-archives:
     tag: '/tag/:name/'
     
 disqus_shortname: suhojang
-ga_tracking_id: UA-83878761-1
 
 descriptions:
   - cat: jekyll
