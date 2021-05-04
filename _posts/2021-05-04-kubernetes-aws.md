@@ -1,10 +1,10 @@
 ---
 title: "Kubernetes for AWS"
 layout: post
-author: kubernetes
-tags: network
+author: jsh
+tags: kubernetes
 cover: "/assets/cover.jpg"
-categories: network
+categories: kubernetes
 ---
 
 ### AWS 네트워크
