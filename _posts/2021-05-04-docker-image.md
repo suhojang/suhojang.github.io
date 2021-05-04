@@ -195,7 +195,7 @@ python-using-lockfile               uwsgi   17a4afc08bf7   2 minutes ago   375MB
 특별한 이유가 없다면 멀티-스테이지 빌드를 사용하지 않을 이유는 없을 것 같다.
 
 ### 참고 자료
-+ [How to Optimize Docker Images for Smaller Size? | coderbook](https://coderbook.com/@marcus/how-to-optimize-docker-images-for-smaller-size-and-speed/)
++ [How to Optimize Docker Images for Smaller Size? - coderbook](https://coderbook.com/@marcus/how-to-optimize-docker-images-for-smaller-size-and-speed/)
 + [Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)
-+ [Best practices for writing Dockerfiles | Docker Documentation](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#minimize-the-number-of-layers)
++ [Best practices for writing Dockerfiles - Docker Documentation](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#minimize-the-number-of-layers)
 + [Docker Best Practices - Banksalad Tech - Medium](https://medium.com/banksalad/docker-best-practices-8b4f28ab3a65)
