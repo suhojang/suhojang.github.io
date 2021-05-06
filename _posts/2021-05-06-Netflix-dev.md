@@ -3,7 +3,7 @@ title: "Spring Cloud Netfilx를 이용한 MSA 구축"
 layout: post
 author: jsh
 cover: "/assets/cover.jpg"
-categories: Spring Cloud
+categories: Spring-Cloud
 ---
 
 Spring Cloud Netfilx를 이용한 MSA 구축
