@@ -608,4 +608,6 @@ Eureka 서버2(8762)로 retry하는 걸 볼 수 있다.
 몇 가지 간단한 어노테이션을 사용하여 어플리케이션 내부의 공통 패턴을 신속하게 사용하고 설정할 수 있습니다.   
 그리고 battle-tested를 거친 Netflix component를 통해 대규모 분산 시스템을 구축할 수 있습니다.
 
-   
+
+
+github : [https://github.com/suhojang/SpringCloudNetflix](https://github.com/suhojang/SpringCloudNetflix)
