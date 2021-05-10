@@ -1,5 +1,5 @@
 ---
-title: "Java Lambda & Stream"
+title: "Java Lambda & Stream(2)"
 layout: post
 author: jsh
 cover: "/assets/cover.jpg"
