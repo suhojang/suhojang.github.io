@@ -782,3 +782,7 @@ foreach 는 요소를 돌면서 실행되는 최종 작업입니다. 보통 Syst
 ```java
 names.stream().forEach(System.out::println);
 ```
+<br>
+<br>
+
+github : [https://github.com/suhojang/JavaStream](https://github.com/suhojang/JavaStream)

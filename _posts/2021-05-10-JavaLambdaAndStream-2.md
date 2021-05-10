@@ -302,3 +302,7 @@ stream.collect(maxBy())
 collect(Collectors.maxBy()) // Optional
 Stream.max() // NPE 발생 가능
 ```
+
+<br>
+
+github : [https://github.com/suhojang/JavaStream](https://github.com/suhojang/JavaStream)
