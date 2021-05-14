@@ -46,8 +46,8 @@ docker, docker-compose, docker-swarm을 활용한 서버운영을 해오기도 �
 + <font size="3">(2014.01 ~ 2014.02)이지스 아파트 LED 전자 입찰 웹 서비스 개발</font>
 + <font size="3">(2013.02 ~ 2013.08)외환은행 In-house PLUS 법인카드 관리 웹 서비스 개발</font>
   + 
-+ <font size="3">(2012.08 ~ 2012.12)조계종 기부 관리 웹 서비스 개발</font>
-  + <font size="3">월 기부자 약 1만명</font>
++ <font size="3">(2012.08 ~ 2012.12)조계종 기부 관리 웹 서비스 개발
+  + 월 기부자 약 1만명</font>
 
 <br/>
 
