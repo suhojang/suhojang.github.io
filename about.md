@@ -17,9 +17,11 @@ docker, docker-compose, docker-swarm을 활용한 서버운영을 해오기도 �
 
 최근 1년간은 비지니스 릴리즈에 영향 없이 팀의 기술 부채 해결을 해왔습니다.
 
-<br>
+<br/>
 
 <center><font size="5">역량</font></center>
+<hr/>
 
-- - -
+
+
 
