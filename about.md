@@ -31,7 +31,7 @@ docker, docker-compose, docker-swarm을 활용한 서버운영을 해오기도 �
 + <font size="3">(2020.11 ~ 2021.01) 장기요양 재무회계서비스 BackEnd System 개발</font>
   + <font size="2">일 1만건 정도 사용</font>
 + <font size="3">(2020.07 ~ 2020.10) 도이치 오토월드 펌뱅킹 RESTFull API 설계 및 개발</font>
-  + <font size="2">일 300~1000건 정도 거래량</font>
+  + <font size="2">기대치 일 3천건</font>
 + <font size="3">(2020.03 ~ 2020.06) 나이스 인포박스 이미지 텍스트 추출 어플리케이션 개발</font>
 + <font size="3">(2019~12 ~ 2020.02) 핀카 HTML to PDF/Image 어플리케이션 개발</font>
 + <font size="3">(2019.07 ~ 2019.11) 카페24 미니뱅크 앱(웹) 설계 및 개발</font>
