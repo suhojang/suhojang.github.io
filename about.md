@@ -61,7 +61,7 @@ docker, docker-compose, docker-swarm을 활용한 서버운영을 해오기도 �
 <center><font size="6">Skill</font></center>
 <hr/>
 
-<center><font size="3">현재 업무에 사용중 혹은 사용했던 기술들입니다.</font></center>
+<center><font size="2">현재 업무에 사용중 혹은 사용했던 기술들입니다.</font></center>
 
 |-|-|
 |---|---|
