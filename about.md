@@ -59,6 +59,7 @@ docker, docker-compose, docker-swarm을 활용한 서버운영을 해오기도 �
 <hr/>
 
 <center><font size="2">현재 업무에 사용중 혹은 사용했던 기술들입니다.</font></center>
+<center><font size="2">기술의 활용도는 프로젝트의 규모에 따라 달라지므로 별도로 기재하지 않았습니다.</font></center>
 
 |-|-|
 |---|---|
