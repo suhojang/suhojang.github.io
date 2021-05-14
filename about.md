@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 main_nav: true
 ---
-
+<font size="3">
 Java & Spring 기반의 9년차 웹/백엔드 개발자로 서버사이드 개발 및 API 서버 개발에서
 다양한 경험이 있습니다.
 
@@ -16,6 +16,7 @@ docker, docker-compose, docker-swarm을 활용한 서버운영을 해오기도 �
 테스트 코드 작성을 당연하게 생각하여 프로젝트 진행 시 테스트 커버리지 50%를 달성하는 것을 목표로 두고 있습니다.
 
 최근 1년간은 비지니스 릴리즈에 영향 없이 팀의 기술 부채 해결을 해왔습니다.
+</font>
 
 <br/>
 
