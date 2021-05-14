@@ -60,9 +60,9 @@ docker, docker-compose, docker-swarm을 활용한 서버운영을 해오기도 �
 
 |-|-|
 |---|---|
-|<font size="6">Backend</font>| - Java<br/>* Spring Boot, Spring MVC, Spring Batch, Spring Security, Spring Data JPA/Redis, Spring Cloud Netflix, Spring Cloud Config<br/>* JPA, Hibernate<br/>* Junit4/5<br/>* Gradle, Maven<br/>* IntelliJ, Eclipse  |
-|<font size="6">DevOps</font>| - MySQL, MariaDB<br/>- Apache, Tomcat<br/>*- Kafka, Redis<br/>* Docker<br/>* Elastic search, Kibana, Filebeat<br/>* GitHub, GitLab, Subversion |
-|<font size="6">Frontend</font>| - Javascript, Jquery<br/> - HTML5<br/>* Vue.js |
+|<font size="6">Backend</font>| - Java<br/>- Spring Boot, Spring MVC, Spring Batch, Spring Security, Spring Data JPA/Redis, Spring Cloud Netflix, Spring Cloud Config<br/>- JPA, Hibernate<br/>- Junit4/5<br/>- Gradle, Maven<br/>- IntelliJ, Eclipse  |
+|<font size="6">DevOps</font>| - MySQL, MariaDB<br/>- Apache, Tomcat<br/>- Kafka, Redis<br/>- Docker<br/>- Elastic search, Kibana, Filebeat<br/>- GitHub, GitLab, Subversion |
+|<font size="6">Frontend</font>| - Javascript, Jquery<br/> - HTML5<br/>- Vue.js |
 
 <br/>
 
