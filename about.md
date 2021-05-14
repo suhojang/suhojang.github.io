@@ -25,7 +25,7 @@ docker, docker-compose, docker-swarm을 활용한 서버운영을 해오기도 �
 <center><font size="5">개발 파트 매니징</font></center>
 <center><font size="3">2021.02 ~ 현재</font></center>
 
-+ 기웅정보통신 데이터허브팀 서비스파트 개발 리딩(2020.02 ~ 현재)
++ 기웅정보통신 데이터허브팀 서비스파트 개발 리딩(2021.02 ~ 현재)
 
 <br/>
 <br/>
@@ -58,8 +58,13 @@ docker, docker-compose, docker-swarm을 활용한 서버운영을 해오기도 �
 
 <center><font size="3">현재 업무에 사용중 혹은 사용했던 기술들입니다.</font></center>
 
-|구분|내용|
+|-|-|
 |---|---|
-|<font size="6">**Backend**</font>| * Java<br/>* Spring Boot, Spring MVC, Spring Batch, Spring Security, Spring Data JPA/Redis, Spring Cloud Netflix, Spring Cloud Config<br/>* JPA, Hibernate<br/>* Junit4/5<br/>* Gradle, Maven<br/>* IntelliJ, Eclipse  |
-|<font size="6">**DevOps**</font>| * MySQL, MariaDB<br/>* Apache, Tomcat<br/>* Kafka, Redis<br/>* Docker<br/>* Elastic search, Kibana, Filebeat<br/>* GitHub, GitLab, Subversion |
-|<font size="6">**Frontend**</font>| * Javascript, Jquery<br/> * HTML5<br/>* Vue.js |
+|<font size="6">Backend</font>| - Java<br/>* Spring Boot, Spring MVC, Spring Batch, Spring Security, Spring Data JPA/Redis, Spring Cloud Netflix, Spring Cloud Config<br/>* JPA, Hibernate<br/>* Junit4/5<br/>* Gradle, Maven<br/>* IntelliJ, Eclipse  |
+|<font size="6">DevOps</font>| - MySQL, MariaDB<br/>- Apache, Tomcat<br/>*- Kafka, Redis<br/>* Docker<br/>* Elastic search, Kibana, Filebeat<br/>* GitHub, GitLab, Subversion |
+|<font size="6">Frontend</font>| - Javascript, Jquery<br/> - HTML5<br/>* Vue.js |
+
+<br/>
+
+<center><font size="6">Experience</font></center>
+<hr/>
