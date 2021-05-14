@@ -29,26 +29,33 @@ docker, docker-compose, docker-swarm을 활용한 서버운영을 해오기도 �
 <center><font size="5">애플리케이션 설계 및 개발</font></center>
 
 + <font size="3">(2020.11 ~ 2021.01) 장기요양 재무회계서비스 BackEnd System 개발</font>
+  + <font size="2">일 1만건 정도 사용</font>
 + <font size="3">(2020.07 ~ 2020.10) 도이치 오토월드 펌뱅킹 RESTFull API 설계 및 개발</font>
+  + <font size="2">일 300~1000건 정도 거래량</font>
 + <font size="3">(2020.03 ~ 2020.06) 나이스 인포박스 이미지 텍스트 추출 어플리케이션 개발</font>
 + <font size="3">(2019~12 ~ 2020.02) 핀카 HTML to PDF/Image 어플리케이션 개발</font>
 + <font size="3">(2019.07 ~ 2019.11) 카페24 미니뱅크 앱(웹) 설계 및 개발</font>
+  + <font size="2">일 PV 500~1000건</font>
 + <font size="3">(2019.05 ~ 2019.06) 나이스 신용 평가정보 스크래핑 전문통신 중계 소켓 서비스 개발</font>
+  + <font size="2">일 평균 5천건 이상의 거래</font>
 + <font size="3">(2019.02 ~ 2019.04) 기웅정보통신 스크래핑 사용현황 모니터링 웹 서비스 개발</font>
+  + <font size="2">일 평균 10만건 이상의 사용량 모니터링</font>
 + <font size="3">(2018.11 ~ 2019.01) 하나카드 스크래핑 중계 어플리케이션 개발</font>
+  + <font size="2">일 평균 5천건 이상의 거래</font>
 + <font size="3">(2018.02 ~ 2018.07) 근로복지공단 사내 App 푸쉬 메시지 관리 웹 서비스 개발</font>
+  + <font size="2">7천명 이상의 사내 직원용</font>
 + <font size="3">(2017.01 ~ 2017.04) 한국공인인증서비스 근로계약시스템 웹 서비스 개발</font>
 + <font size="3">(2018.08 ~ 2018.12) 근로복지공단 사내 Hybrid App 개발</font>
+  + <font size="2">7천명 이상의 사내 직원용</font>
 + <font size="3">(2018.04 ~ 2018.05) 대한전문건설협회 건설교육센터 웹 서비스 설계 및 개발</font>
+  + <font size="2">월평균 2천명의 건설기계 노동자 교육</font>
 + <font size="3">(2018.02 ~ 2018.04) 한국공인인증서비스 메디청구 Android 앱 개발</font>
 + <font size="3">(2015.01 ~ 2015.03) KT기가오피스 세무링크 서비스 개발</font>
 + <font size="3">(2014.09 ~ 2014.12) 농협캐피탈 담보모니터링 웹 서비스 개발</font>
 + <font size="3">(2014.01 ~ 2014.02) 이지스 아파트 LED 전자 입찰 웹 서비스 개발</font>
 + <font size="3">(2013.02 ~ 2013.08) 외환은행 In-house PLUS 법인카드 관리 웹 서비스 개발</font>
-  + 
-
 + <font size="3">(2012.08 ~ 2012.12)조계종 기부 관리 웹 서비스 개발</font>
-  + <font size="3">월 기부자 약 1만명</font>
+  + <font size="2">월 기부자 약 1만명</font>
 
 <br/>
 
