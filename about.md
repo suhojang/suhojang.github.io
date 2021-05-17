@@ -30,7 +30,7 @@ docker, docker-compose, docker-swarm을 활용한 서버운영을 해오기도 �
 
 + <font size="3">(2020.11 ~ 2021.01) 장기요양 재무회계서비스 BackEnd System 개발</font>
   + <font size="2">일 1만건 정도 사용</font>
-+ <font size="3">(2020.07 ~ 2020.10) 도이치 오토월드 펌뱅킹 RESTFull API 설계 및 개발</font>
++ <font size="3">(2020.07 ~ 2020.10) 도이치 오토월드 펌뱅킹 RESTful API 설계 및 개발</font>
   + <font size="2">기대치 일 3천건</font>
 + <font size="3">(2020.03 ~ 2020.06) 나이스 인포박스 이미지 텍스트 추출 어플리케이션 개발</font>
 + <font size="3">(2019~12 ~ 2020.02) 핀카 HTML to PDF/Image 어플리케이션 개발</font>
@@ -75,3 +75,43 @@ docker, docker-compose, docker-swarm을 활용한 서버운영을 해오기도 �
 
 <center><font size="6">Experience</font></center>
 <hr/>
+
+<font size="5">기웅정보통신</font>   
+[https://www.kwic.co.kr](#https://www.kwic.co.kr)   
+Java Web/BackEnd 개발자(데이터허브팀 서비스 파트장)   
+2018.11 ~ 현재
+
++ 스크래핑 중계서버 환경의 웹/API/Batch 개발
++ 핀테크 서비스를 위한 RESTful API 개발
++ 이미지의 텍스트 추출을 위한 라이브러리 모듈 개발
++ Windows/Linux 환경에서의 배포 및 관리
++ Docker를 활용한 시스템 구축 및 운영
+
+<br>
+
+<font size="5">한국보안인증</font>   
+[https://kcert.co.kr/](#https://kcert.co.kr/)   
+Java Web/BackEnd, Android 개발자   
+2016.02 ~ 2018.10
+
++ Android Native/Hybrid/Web App 개발
++ 푸쉬 관리자 웹 서비스 개발
++ Spring MVC 웹 서비스 개발
++ Non-ActiveX WebSocket 모듈 개발(javascript)
+
+<br>
+
+<font size="5">기웅정보통신</font>   
+[https://www.kwic.co.kr](#https://www.kwic.co.kr)   
+Java Web, Android 개발자   
+2012.08 ~ 2016.01
+
++ Android Native App 개발
++ Struts, Spring 웹 서비스 개발
+
+<br/>
+
+<center><font size="6">Education</font></center>
+<hr/>
+
+<font size="5">강원대학교 컴퓨터공학과</font> (2014.03 ~ 2010.02)
