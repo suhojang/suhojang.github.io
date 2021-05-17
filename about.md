@@ -76,9 +76,9 @@ docker, docker-compose, docker-swarm을 활용한 서버운영을 해오기도 �
 <center><font size="6">Experience</font></center>
 <hr/>
 
-<font size="5">기웅정보통신</font>      
-<font size="3">https://www.kwic.co.kr</font>   
-<font size="3">Java Web/BackEnd 개발자(데이터허브팀 서비스 파트장)</font>      
+<font size="5">기웅정보통신</font><br>
+<font size="3">https://www.kwic.co.kr</font><br>
+<font size="3">Java Web/BackEnd 개발자(데이터허브팀 서비스 파트장)</font><br>
 <font size="3">2018.11 ~ 현재</font>   
 
 + 스크래핑 중계서버 환경의 웹/API/Batch 개발
@@ -89,9 +89,9 @@ docker, docker-compose, docker-swarm을 활용한 서버운영을 해오기도 �
 
 <br>
 
-<font size="5">한국보안인증</font>      
-<font size="3">https://kcert.co.kr</font>      
-<font size="3">Java Web/BackEnd, Android 개발자</font>      
+<font size="5">한국보안인증</font><br>
+<font size="3">https://kcert.co.kr</font><br>
+<font size="3">Java Web/BackEnd, Android 개발자</font><br>
 <font size="3">2016.02 ~ 2018.10</font>   
 
 + Android Native/Hybrid/Web App 개발
@@ -101,9 +101,9 @@ docker, docker-compose, docker-swarm을 활용한 서버운영을 해오기도 �
 
 <br>
 
-<font size="5">기웅정보통신</font>      
-<font size="3">https://www.kwic.co.kr</font>      
-<font size="3">Java Web, Android 개발자</font>      
+<font size="5">기웅정보통신</font><br>
+<font size="3">https://www.kwic.co.kr</font><br>
+<font size="3">Java Web, Android 개발자</font><br>
 <font size="3">2012.08 ~ 2016.01</font>
 
 + Android Native App 개발
