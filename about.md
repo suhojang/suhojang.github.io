@@ -74,37 +74,37 @@ main_nav: true
 <hr/>
 
 <div style="text-align: left"><font size="5">기웅정보통신</font></div>   
-<div style="text-align: left"><font size="3">https://www.kwic.co.kr</font></div>   
-<div style="text-align: left"><font size="3">Java Web/BackEnd 개발자(데이터허브팀 서비스 파트장)</font></div>   
-<div style="text-align: left"><font size="3">2018.11 ~ 현재</font></div>   
+<div style="text-align: left"><font size="2">https://www.kwic.co.kr</font></div>   
+<div style="text-align: left"><font size="2">Java Web/BackEnd 개발자(데이터허브팀 서비스 파트장)</font></div>   
+<div style="text-align: left"><font size="2">2018.11 ~ 현재</font></div>   
 
-+ 스크래핑 중계서버 환경의 웹/API/Batch 개발
-+ 핀테크 서비스를 위한 RESTful API 개발
-+ 이미지의 텍스트 추출을 위한 라이브러리 모듈 개발
-+ Windows/Linux 환경에서의 배포 및 관리
-+ Docker를 활용한 시스템 구축 및 운영
++ <font size="3">스크래핑 중계서버 환경의 웹/API/Batch 개발</font>
++ <font size="3">핀테크 서비스를 위한 RESTful API 개발</font>
++ <font size="3">이미지의 텍스트 추출을 위한 라이브러리 모듈 개발</font>
++ <font size="3">Windows/Linux 환경에서의 배포 및 관리</font>
++ <font size="3">Docker를 활용한 시스템 구축 및 운영</font>
 
 <br>
 
 <div style="text-align: left"><font size="5">한국보안인증</font></div>   
-<div style="text-align: left"><font size="3">https://kcert.co.kr</font></div>   
-<div style="text-align: left"><font size="3">Java Web/BackEnd, Android 개발자</font></div>   
-<div style="text-align: left"><font size="3">2016.02 ~ 2018.10</font></div>   
+<div style="text-align: left"><font size="2">https://kcert.co.kr</font></div>   
+<div style="text-align: left"><font size="2">Java Web/BackEnd, Android 개발자</font></div>   
+<div style="text-align: left"><font size="2">2016.02 ~ 2018.10</font></div>   
 
-+ Android Native/Hybrid/Web App 개발
-+ 푸쉬 관리자 웹 서비스 개발
-+ Spring MVC 웹 서비스 개발
-+ Non-ActiveX WebSocket 모듈 개발(javascript)
++ <font size="3">Android Native/Hybrid/Web App 개발</font>
++ <font size="3">푸쉬 관리자 웹 서비스 개발</font>
++ <font size="3">Spring MVC 웹 서비스 개발</font>
++ <font size="3">Non-ActiveX WebSocket 모듈 개발(javascript)</font>
 
 <br>
 
 <div style="text-align: left"><font size="5">기웅정보통신</font></div>   
-<div style="text-align: left"><font size="3">https://www.kwic.co.kr</font></div>   
-<div style="text-align: left"><font size="3">Java Web, Android 개발자</font></div>   
-<div style="text-align: left"><font size="3">2012.08 ~ 2016.01</font></div>
+<div style="text-align: left"><font size="2">https://www.kwic.co.kr</font></div>   
+<div style="text-align: left"><font size="2">Java Web, Android 개발자</font></div>   
+<div style="text-align: left"><font size="2">2012.08 ~ 2016.01</font></div>
 
-+ Android Native App 개발
-+ Struts, Spring 웹 서비스 개발
++ <font size="3">Android Native App 개발</font>
++ <font size="3">Struts, Spring 웹 서비스 개발</font>
 
 <br/>
 
