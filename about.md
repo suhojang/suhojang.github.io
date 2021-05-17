@@ -4,14 +4,11 @@ title: About
 permalink: /about/
 main_nav: true
 ---
-<font size="3">
-Java & Spring 기반의 9년차 웹/백엔드 개발자로 서버사이드 개발 및 API 서버 개발에서
-다양한 경험이 있습니다.</font>   
-<font size="3">현재는 팀내 <b>파트장</b>으로 개발 매니징/설계/개발 등을 주요 업무로 하고 있습니다.</font>      
-<font size="3">개인이 하고 싶은 일 보다는 회사와 팀에 도움이 되는 개발을 해야 한다는 생각에 
-docker, docker-compose, docker-swarm을 활용한 서버운영을 해오기도 했습니다.</font>   
-<font size="3">테스트 코드 작성을 당연하게 생각하여 프로젝트 진행 시 테스트 커버리지 50%를 달성하는 것을 목표로 두고 있습니다.</font>      
-<font size="3">최근 1년간은 비지니스 릴리즈에 영향 없이 팀의 기술 부채 해결을 해왔습니다.</font>
+<div style="text-align: left"><font size="3">Java & Spring 기반의 9년차 웹/백엔드 개발자로 서버사이드 개발 및 API 서버 개발에서 다양한 경험이 있습니다.</font></div>   
+<div style="text-align: left"><font size="3">현재는 팀내 <b>파트장</b>으로 개발 매니징/설계/개발 등을 주요 업무로 하고 있습니다.</font></div>      
+<div style="text-align: left"><font size="3">개인이 하고 싶은 일 보다는 회사와 팀에 도움이 되는 개발을 해야 한다는 생각에 docker, docker-compose, docker-swarm을 활용한 서버운영을 해오기도 했습니다.</font></div>   
+<div style="text-align: left"><font size="3">테스트 코드 작성을 당연하게 생각하여 프로젝트 진행 시 테스트 커버리지 50%를 달성하는 것을 목표로 두고 있습니다.</font></div>      
+<div style="text-align: left"><font size="3">최근 1년간은 비지니스 릴리즈에 영향 없이 팀의 기술 부채 해결을 해왔습니다.</font></div>
 
 <br/>
 
@@ -76,10 +73,10 @@ docker, docker-compose, docker-swarm을 활용한 서버운영을 해오기도 �
 <center><font size="6">Experience</font></center>
 <hr/>
 
-<font size="5">기웅정보통신</font>   
-<font size="3">https://www.kwic.co.kr   
-Java Web/BackEnd 개발자(데이터허브팀 서비스 파트장)   
-2018.11 ~ 현재</font>
+<div style="text-align: left"><font size="5">기웅정보통신</font></div>   
+<div style="text-align: left"><font size="3">https://www.kwic.co.kr</font></div>   
+<div style="text-align: left"><font size="3">Java Web/BackEnd 개발자(데이터허브팀 서비스 파트장)</font></div>   
+<div style="text-align: left"><font size="3">2018.11 ~ 현재</font></div>   
 
 + 스크래핑 중계서버 환경의 웹/API/Batch 개발
 + 핀테크 서비스를 위한 RESTful API 개발
@@ -89,10 +86,10 @@ Java Web/BackEnd 개발자(데이터허브팀 서비스 파트장)
 
 <br>
 
-<font size="5">한국보안인증</font>   
-<font size="3">https://kcert.co.kr</font>   
-<font size="3">Java Web/BackEnd, Android 개발자</font>   
-<font size="3">2016.02 ~ 2018.10</font>   
+<div style="text-align: left"><font size="5">한국보안인증</font></div>   
+<div style="text-align: left"><font size="3">https://kcert.co.kr</font></div>   
+<div style="text-align: left"><font size="3">Java Web/BackEnd, Android 개발자</font></div>   
+<div style="text-align: left"><font size="3">2016.02 ~ 2018.10</font></div>   
 
 + Android Native/Hybrid/Web App 개발
 + 푸쉬 관리자 웹 서비스 개발
@@ -101,10 +98,10 @@ Java Web/BackEnd 개발자(데이터허브팀 서비스 파트장)
 
 <br>
 
-<font size="5">기웅정보통신</font>   
-<font size="3">https://www.kwic.co.kr</font>   
-<font size="3">Java Web, Android 개발자</font>   
-<font size="3">2012.08 ~ 2016.01</font>
+<div style="text-align: left"><font size="5">기웅정보통신</font></div>   
+<div style="text-align: left"><font size="3">https://www.kwic.co.kr</font></div>   
+<div style="text-align: left"><font size="3">Java Web, Android 개발자</font></div>   
+<div style="text-align: left"><font size="3">2012.08 ~ 2016.01</font></div>
 
 + Android Native App 개발
 + Struts, Spring 웹 서비스 개발
