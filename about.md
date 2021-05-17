@@ -88,7 +88,7 @@ main_nav: true
 
 <div style="text-align: left"><font size="5">한국보안인증</font></div>   
 <div style="text-align: left"><font size="2">https://kcert.co.kr</font></div>   
-<div style="text-align: left"><font size="2">Java Web/BackEnd, Android 개발자</font></div>   
+<div style="text-align: left"><font size="2">Java Web/BackEnd, Android 개발자(연구소 선임연구원)</font></div>   
 <div style="text-align: left"><font size="2">2016.02 ~ 2018.10</font></div>   
 
 + <font size="3">Android Native/Hybrid/Web App 개발</font>
@@ -104,7 +104,7 @@ main_nav: true
 <div style="text-align: left"><font size="2">2012.08 ~ 2016.01</font></div>
 
 + <font size="3">Android Native App 개발</font>
-+ <font size="3">Struts, Spring 웹 서비스 개발</font>
++ <font size="3">Struts, Spring 웹 서비스 개발(금융2팀 대리)</font>
 
 <br/>
 
