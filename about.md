@@ -111,4 +111,4 @@ main_nav: true
 <center><font size="6">Education</font></center>
 <hr/>
 
-<font size="5">강원대학교 컴퓨터공학과</font> <font size="3">(2014.03 ~ 2010.02)</font>
+<font size="5">강원대학교 컴퓨터공학과</font> <font size="3">(2004.03 ~ 2010.02)</font>
