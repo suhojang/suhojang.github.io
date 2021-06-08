@@ -19,6 +19,7 @@ main_nav: true
 <center><font size="3">2021.02 ~ 현재</font></center>
 
 + <font size="3">기웅정보통신 데이터허브팀 서비스파트 개발 리딩(2021.02 ~ 현재)</font>
++ <font size="3">기웅정보통신 전자세금계산서 API 서버 개발 리딩(2021.06 ~ 현재)</font>
 
 <br/>
 <br/>
