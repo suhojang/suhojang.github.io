@@ -26,6 +26,8 @@ main_nav: true
 
 <center><font size="5">애플리케이션 설계 및 개발</font></center>
 
++ <font size="3">(2021.11 ~ 2022.01) open web xpErp 전자세금계산서 Front-End 개발</font>
++ <font size="3">(2021.06 ~ 2022.01) open web xpErp 전자세금계산서 RESTful API 설계 및 개발</font>
 + <font size="3">(2020.11 ~ 2021.01) 장기요양 재무회계서비스 BackEnd System 개발</font>
   + <font size="2">일 1만건 정도 사용</font>
 + <font size="3">(2020.07 ~ 2020.10) 도이치 오토월드 펌뱅킹 RESTful API 설계 및 개발</font>
@@ -70,7 +72,7 @@ main_nav: true
 |---|---|
 |<font size="5">Backend</font>| <font size="3">- Java<br/>- Spring Boot, Spring MVC, Spring Batch, Spring Security, Spring Data JPA/Redis, Spring Cloud Netflix, Spring Cloud Config<br/>- JPA, Hibernate<br/>- ibatis, mybatis<br/>- Junit4/5<br/>- Gradle, Maven<br/>- IntelliJ, Eclipse</font> |
 |<font size="5">DevOps</font>| <font size="3">- MySQL, MariaDB, PostgreSQL, MS-SQL, Oracle<br/>- Apache, Tomcat<br/>- Kafka, Redis<br/>- Docker<br/>- Elastic search, Kibana, Filebeat<br/>- GitHub, GitLab, Subversion</font> |
-|<font size="5">Frontend</font>| <font size="3">- Javascript, Jquery<br/> - HTML5<br/>- Vue.js<br/>- Node.js</font> |
+|<font size="5">Frontend</font>| <font size="3">- Javascript, Jquery<br/> - HTML5<br/>- Vue.js<br/>- React<br/>- Node.js</font> |
 
 <br/>
 
@@ -79,9 +81,10 @@ main_nav: true
 
 <div style="text-align: left"><font size="5">기웅정보통신</font></div>   
 <div style="text-align: left"><font size="2">https://www.kwic.co.kr</font></div>   
-<div style="text-align: left"><font size="2">Java Web/BackEnd 개발자(데이터허브팀 서비스 파트장)</font></div>   
+<div style="text-align: left"><font size="2">Java Web/BackEnd 개발자(솔루션사업팀 응용솔루션 개발팀)</font></div>   
 <div style="text-align: left"><font size="2">2018.11 ~ 현재</font></div>   
 
++ <font size="3">전자세금계산서 Back-end/Front-end 설계 및 개발</font>
 + <font size="3">스크래핑 중계서버 환경의 웹/API/Batch 개발</font>
 + <font size="3">핀테크 서비스를 위한 RESTful API 개발</font>
 + <font size="3">이미지의 텍스트 추출을 위한 라이브러리 모듈 개발</font>
