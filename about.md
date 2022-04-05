@@ -15,17 +15,18 @@ main_nav: true
 <center><font size="6">역량</font></center>
 <hr/>
 
-<center><font size="5">개발 파트 매니징</font></center>
-<center><font size="3">2021.02 ~ 현재</font></center>
+<center><font size="5">전자증빙 파트 매니징</font></center>
+<center><font size="3">2022.01 ~ 현재</font></center>
 
-+ <font size="3">기웅정보통신 데이터허브팀 서비스파트 개발 리딩(2021.02 ~ 현재)</font>
-+ <font size="3">기웅정보통신 전자세금계산서 API 서버 개발 리딩(2021.06 ~ 현재)</font>
++ <font size="3">기웅정보통신 솔루션개발팀 전자증빙파트 개발 리딩(2022.01 ~ 현재)</font>
 
 <br/>
 <br/>
 
 <center><font size="5">애플리케이션 설계 및 개발</font></center>
 
++ <font size="3">(2022.03 ~ 현재) WEB-CMS 설계 및 개발 </font>
++ <font size="3">(2022.02 ~ 2022.03) 빌메이트 open web 전환 개발 및 매니징</font>
 + <font size="3">(2021.11 ~ 2022.01) open web xpErp 전자세금계산서 Front-End 개발</font>
 + <font size="3">(2021.06 ~ 2022.01) open web xpErp 전자세금계산서 RESTful API 설계 및 개발</font>
 + <font size="3">(2020.11 ~ 2021.01) 장기요양 재무회계서비스 BackEnd System 개발</font>
