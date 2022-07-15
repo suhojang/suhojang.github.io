@@ -6,7 +6,7 @@ main_nav: true
 ---
 <div style="text-align: left"><font size="3">Java & Spring 기반의 10년차 웹/백엔드 개발자로 서버사이드 개발 및 API 서버 개발에서 다양한 경험이 있습니다.</font></div>   
 <div style="text-align: left"><font size="3">현재는 팀 내 개발 매니징/설계/개발 등을 주요 업무로 하고 있습니다.</font></div>      
-<div style="text-align: left"><font size="3">개인이 하고 싶은 일 보다는 회사와 팀에 도움이 되는 개발을 해야 한다는 생각에 docker, docker-compose, docker-swarm을 활용한 서버운영을 해오기도 했습니다.</font></div>   
+<div style="text-align: left"><font size="3">개인이 하고 싶은 일 보다는 회사와 팀에 도움이 되는 개발을 해야 한다는 생각에 CI/CD(gitlab-ci), docker, docker-swarm 을 활용한 서버운영을 해오기도 했습니다.</font></div>   
 <div style="text-align: left"><font size="3">테스트 코드 작성을 당연하게 생각하여 프로젝트 진행 시 테스트 커버리지 50%를 달성하는 것을 목표로 두고 있습니다.</font></div>      
 <div style="text-align: left"><font size="3">최근 1년간은 비지니스 릴리즈에 영향 없이 팀의 기술 부채 해결을 해왔습니다.</font></div>
 
@@ -25,7 +25,8 @@ main_nav: true
 
 <center><font size="5">애플리케이션 설계 및 개발</font></center>
 
-+ <font size="3">(2022.03 ~ 현재) WEB-CMS 설계 및 개발 </font>
++ <font size="3">(2022.06 ~ 현재) 스마트로 AI 세무서비스 개발(bizzle App)</font>
++ <font size="3">(2022.03 ~ 2022.05) WEB-CMS 설계 및 개발</font>
 + <font size="3">(2022.02 ~ 2022.03) 빌메이트 open web 전환 개발 및 매니징</font>
 + <font size="3">(2021.11 ~ 2022.01) open web xpErp 전자세금계산서 Front-End 개발</font>
 + <font size="3">(2021.06 ~ 2022.01) open web xpErp 전자세금계산서 RESTful API 설계 및 개발</font>
@@ -82,7 +83,7 @@ main_nav: true
 
 <div style="text-align: left"><font size="5">기웅정보통신</font></div>   
 <div style="text-align: left"><font size="2">https://www.kwic.co.kr</font></div>   
-<div style="text-align: left"><font size="2">Java Web/BackEnd 개발자(솔루션사업팀 응용솔루션 개발팀)</font></div>   
+<div style="text-align: left"><font size="2">Java Web/BackEnd 개발자(솔루션사업팀 전자증빙파트)</font></div>   
 <div style="text-align: left"><font size="2">2018.11 ~ 현재</font></div>   
 
 + <font size="3">전자세금계산서 Back-end/Front-end 설계 및 개발</font>
