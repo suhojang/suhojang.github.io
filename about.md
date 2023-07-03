@@ -4,10 +4,9 @@ title: About
 permalink: /about/
 main_nav: true
 ---
-<div style="text-align: left"><font size="3">Java & Spring 기반의 10년차 웹/백엔드 개발자로 서버사이드 개발 및 API 서버 개발에서 다양한 경험이 있습니다.</font></div>   
-<div style="text-align: left"><font size="3">현재는 팀 내 개발 매니징/설계/개발 등을 주요 업무로 하고 있습니다.</font></div>      
-<div style="text-align: left"><font size="3">개인이 하고 싶은 일 보다는 회사와 팀에 도움이 되는 개발을 해야 한다는 생각에 CI/CD(gitlab-ci), docker, docker-swarm 을 활용한 서버운영을 해오기도 했습니다.</font></div>   
-<div style="text-align: left"><font size="3">테스트 코드 작성을 당연하게 생각하여 프로젝트 진행 시 테스트 커버리지 50%를 달성하는 것을 목표로 두고 있습니다.</font></div>      
+<div style="text-align: left"><font size="3">Java & Spring 기반의 11년차 웹/백엔드 개발자로 서버사이드 개발 및 API 서버 개발에서 다양한 경험이 있습니다.</font></div>   
+<div style="text-align: left"><font size="3">현재는 숙박 플랫폼 개발 및 운영을 주요 업무로 하고 있습니다.</font></div>      
+<div style="text-align: left"><font size="3">테스트 코드 작성을 당연하게 생각하여 개발 진행 시 테스트 커버리지 70%를 달성하는 것을 목표로 두고 있습니다.</font></div>      
 <div style="text-align: left"><font size="3">최근 1년간은 비지니스 릴리즈에 영향 없이 팀의 기술 부채 해결을 해왔습니다.</font></div>
 
 <br/>
@@ -15,17 +14,48 @@ main_nav: true
 <center><font size="6">역량</font></center>
 <hr/>
 
-<center><font size="5">전자증빙 파트 매니징</font></center>
-<center><font size="3">2022.01 ~ 현재</font></center>
+<center><font size="5">숙박 플랫폼 개발 및 운영</font></center>
+<center><font size="3">2022.08 ~ 현재</font></center>
 
-+ <font size="3">기웅정보통신 솔루션개발팀 전자증빙파트 개발 리딩(2022.01 ~ 현재)</font>
++ <font size="3">숙박 관리자시스템 개발 및 운영(2022.08 ~ 현재)</font>
+  + <font size="2">관리자 시스템 편의성 개선 및 추가 기능 개발</font>
++ <font size="3">숙박 배치서비스 개발 및 운영(2022.08 ~ 현재)</font>
+  + <font size="2">B2B 서비스 안정화(OTA 동기화)</font>   
+  + <font size="2">속도 개선</font>   
+    + <font size="2">스케쥴링 시 속도 개선을 위한 서버 간 비동기 통신 처리</font> 
+  + <font size="2">테스트 코드</font>
+    + <font size="2">테스트 코드가 존재하지 않아 발생하는 이슈를 사전에 방지 하고자 테스트 코드 작성</font>
+    + <font size="2">단위 테스트 코드 및 통합 테스트 코드를 작성하여 어느정도 신뢰성을 가지는 비지니스 로직 생성</font>
+  + <font size="2">DirtyCode Refactoring</font>
+    + <font size="2">결합도가 너무 높은 Code 개선</font>
+    + <font size="2">java Stream API를 이용한 Functional Programing 지향</font>
+    + <font size="2">Mybatis native Query 개선 -> JPA, QueryDSL 도입</font>
+  + <font size="2">CI/CD</font>
+    + <font size="2">AWS ECR 및 Gradle/Jenkins 를 활용한 CI/CD 배포 환경 구축</font>
++ <font size="3">숙박 API 서비스 개발 및 운영(2022.08 ~ 현재)</font>
+  + <font size="2">API 성능 개선</font>
+    + <font size="2">나의 찜 숙소, 최근 본 숙소 조회 시 성능 이슈로 인한 속도 개선(3~7s -> 100ms)</font>   
+    + <font size="2">성능 이슈가 발생했던 Query들을 새로운 테이블을 생성하여 데이터를 빠른 속도로 조회 할 수 있도록 개선</font>   
+  + <font size="2">대용량 트래픽 부하</font>
+    + <font size="2">Redis를 이용한 cache 처리를 통해 부하 개선</font>
+    + <font size="2">성능 이슈가 발생하는 Query를 추출하여 Query튜닝</font>
+  + <font size="2">테스트 코드</font>
+    + <font size="2">테스트 코드가 존재하지 않아 발생하는 이슈를 사전에 방지 하고자 테스트 코드 작성</font>
+    + <font size="2">단위 테스트 코드 및 통합 테스트 코드를 작성하여 어느정도 신뢰성을 가지는 비지니스 로직 생성</font>
+  + <font size="2">DirtyCode Refactoring</font>
+    + <font size="2">결합도가 너무 높은 Code 개선</font>
+    + <font size="2">java Stream API를 이용한 Functional Programing 지향</font>
+  + <font size="2">Apis Document</font>
+    + <font size="2">Spring Rest Docs를 활용하여 API 문서 도입</font> 
+  + <font size="2">CI/CD</font>
+    + <font size="2">AWS ECR 및 Gradle/Jenkins 를 활용한 CI/CD 배포 환경 구축</font>
 
 <br/>
 <br/>
 
 <center><font size="5">애플리케이션 설계 및 개발</font></center>
 
-+ <font size="3">(2022.06 ~ 현재) 스마트로 AI 세무서비스 개발(bizzle App)</font>
++ <font size="3">(2022.06 ~ 2022.07) 스마트로 AI 세무서비스 개발(bizzle App)</font>
 + <font size="3">(2022.03 ~ 2022.05) WEB-CMS 설계 및 개발</font>
 + <font size="3">(2022.02 ~ 2022.03) 빌메이트 open web 전환 개발 및 매니징</font>
 + <font size="3">(2021.11 ~ 2022.01) open web xpErp 전자세금계산서 Front-End 개발</font>
@@ -74,17 +104,27 @@ main_nav: true
 |---|---|
 |<font size="5">Backend</font>| <font size="3">- Java<br/>- Spring Boot, Spring MVC, Spring Batch, Spring Security, Spring Data JPA/Redis, Spring Cloud Netflix, Spring Cloud Config<br/>- JPA, Hibernate<br/>- ibatis, mybatis<br/>- Junit4/5<br/>- Gradle, Maven<br/>- IntelliJ, Eclipse</font> |
 |<font size="5">DevOps</font>| <font size="3">- MySQL, MariaDB, PostgreSQL, MS-SQL, Oracle<br/>- Apache, Tomcat<br/>- Kafka, Redis<br/>- Docker<br/>- Elastic search, Kibana, Filebeat<br/>- GitHub, GitLab, Subversion</font> |
-|<font size="5">Frontend</font>| <font size="3">- Javascript, Jquery<br/> - HTML5<br/>- Vue.js<br/>- React<br/>- Node.js</font> |
+|<font size="5">Frontend</font>| <font size="3">- Javascript, Jquery<br/> - HTML5<br/>- Node.js</font> |
 
 <br/>
 
 <center><font size="6">Experience</font></center>
 <hr/>
+<div style="text-align: left"><font size="5">놀이의발견</font></div>   
+<div style="text-align: left"><font size="2">https://nolbal.com/</font></div>   
+<div style="text-align: left"><font size="2">Java BackEnd 개발자(백엔드 파트)</font></div>   
+<div style="text-align: left"><font size="2">2022.08 ~ 현재</font></div>
+
++ <font size="3">숙박 관리자시스템 개발 및 운영</font>
++ <font size="3">숙박 배치서비스 개발 및 운영</font>
++ <font size="3">숙박 API 서비스 개발 및 운영</font>
+
+<br>
 
 <div style="text-align: left"><font size="5">기웅정보통신</font></div>   
 <div style="text-align: left"><font size="2">https://www.kwic.co.kr</font></div>   
 <div style="text-align: left"><font size="2">Java Web/BackEnd 개발자(솔루션사업팀 전자증빙파트)</font></div>   
-<div style="text-align: left"><font size="2">2018.11 ~ 현재</font></div>   
+<div style="text-align: left"><font size="2">2018.11 ~ 2022.07</font></div>   
 
 + <font size="3">전자세금계산서 Back-end/Front-end 설계 및 개발</font>
 + <font size="3">스크래핑 중계서버 환경의 웹/API/Batch 개발</font>
