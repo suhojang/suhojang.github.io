@@ -2,7 +2,6 @@
 title: "Spring AOP"
 layout: post
 author: jsh
-date: '2021-05-02 10:25:52'
 tags: Spring
 cover: "/assets/cover.jpg"
 categories: Spring

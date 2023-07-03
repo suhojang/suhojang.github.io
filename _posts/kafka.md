@@ -1,7 +1,6 @@
 ---
 title: "Apache Kafka란"
 layout: post
-date: '2021-04-27 09:25:52'
 author: jsh
 tags: Kafka
 cover: "/assets/cover.jpg"

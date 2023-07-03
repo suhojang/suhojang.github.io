@@ -3,7 +3,6 @@ title: "Spring JPA"
 layout: post
 author: jsh
 tags: Spring
-date: '2021-05-02 10:25:52'
 cover: "/assets/cover.jpg"
 categories: Spring
 ---

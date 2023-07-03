@@ -1,7 +1,6 @@
 ---
 title: "kafka Cluster 환경"
 layout: post
-date: '2021-04-29 14:18:52'
 author: jsh
 tags: Kafka
 cover: "/assets/cover.jpg"
